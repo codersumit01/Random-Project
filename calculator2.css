@@ -1,0 +1,40 @@
+#clear {
+    width:200px;
+    border:3px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color:aliceblue;
+    font-size: 20px;
+   margin-left: 35px;
+
+}
+.formstyle{
+    width: 300px;
+    height: 100%;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+input {
+    width: 20px;
+    background-color:#fff;
+    color:black;
+    border: 3px solid black;
+    padding: 26px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 20px;
+    /* text-shadow: 0 0 3px ; */
+    font-weight: bold;
+    background-attachment: fixed;
+}
+
+#calc{
+    width: 220px;
+    border: 5px solid black;
+    border-radius: 20px;
+        padding: 20px;
+        margin: auto;
+}
+
